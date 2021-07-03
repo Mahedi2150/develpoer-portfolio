@@ -6,9 +6,7 @@ body {
 h1 {
   font-size: 50px;
 }
-/* h2 {
-  font-size: 40px;
-} */
+
 .orangr-color {
   color: orange;
 }
@@ -19,8 +17,9 @@ h1 {
 .link-buttun {
   color: white;
   padding: 10px 40px;
+  border-radius: 5px;
   text-decoration: none;
-  background-image: linear-gradient(#f12711, #f5af19);
+  background-image: linear-gradient(#ff9c77, #ff6548);
 }
 .half-width {
   width: 50%;
@@ -33,4 +32,9 @@ h1 {
 .top-section {
   background-image: url(image/top-banner.png);
   background-repeat: no-repeat;
+}
+.dream-section {
+  background-image: url(image/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
