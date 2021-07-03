@@ -16,6 +16,12 @@ h1 {
   display: flex;
   margin-bottom: 150px;
 }
+.link-buttun {
+  color: white;
+  padding: 10px 40px;
+  text-decoration: none;
+  background-image: linear-gradient(#f12711, #f5af19);
+}
 .half-width {
   width: 50%;
   margin-left: 5%;
