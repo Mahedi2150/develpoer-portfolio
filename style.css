@@ -57,8 +57,8 @@ section {
 }
 #full-web {
   border-left: 7px solid;
-  border-image: linear-gradient(180deg, #ff9f79, #ff6549);
-  border-image-slice: 1;
+  border-image: linear-gradient(180deg, #ff9f79, #ff6549) 1;
+  /* border-image-slice: 1; */
 }
 #baby-web {
   border-left: 7px solid;
